@@ -1,0 +1,1 @@
+This is a simpl proof of concept to use gpu multi-core processing for bruteforce application
